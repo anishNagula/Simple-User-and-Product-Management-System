@@ -51,7 +51,7 @@ Products are stored in a **hash table**, grouped by their category:
 1. **Compile the Program**
    Use a C compiler like `gcc`:
    ```bash
-   gcc main.c user.c product.c history.c recommendation.c -o shopping_system
+   gcc main.c user.c product.c history.c recomendation.c -o shopping_system
    ```
    
 2. **Run the Program**
